@@ -4,7 +4,7 @@
 <h3 align="center">A passionate and aspiring DevOps Engineer and React JS Software Engineer from Kenya. I work in Corporate Cyber Secuirty IT Sector and in my free time try to work on freelance devops and react projecs</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="KeithOnyango" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
 <!-- - 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps) -->
 

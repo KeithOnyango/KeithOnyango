@@ -11,9 +11,9 @@
 - 🌱 I’m currently learning **DevOps Roadmap 2023**
   
 - 🌱 I’m also currently learning on **Certified Ethical Hacking**
-- 
+  
 - 💬 Ask me about **DevOps & Opensource Tools**
-- 
+  
 - 📫 How to reach me **keithnathy@gmail.com**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246) -->

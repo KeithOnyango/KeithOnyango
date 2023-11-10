@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
-- 🔭 I’m currently working on **Ulitame React Js Roadmap 2023**
+- 🔭 I’m currently working on **Ultimate React Js Roadmap 2023**
 
 - 🌱 I’m currently learning **DevOps Roadmap 2023**
   

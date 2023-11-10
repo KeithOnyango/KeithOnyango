@@ -1,20 +1,25 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hey Everyone 👋, I'm Keith Onyango</h1>
-<h3 align="center">A Passionate and Aspiring DevOps Engineer, React JS Software Engineer and Cyber Security Analyst.</h3>
+<h3 align="center">A Passionate and An Aspiring Cyber Security Analyst | React Software Engineer Developer | DevOps & DevSecOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
-<!-- - 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps) -->
+- 🔭 I’m currently working on **Ulitame React Js Roadmap 2023**
 
-- 🌱 I’m currently learning **React Js and DevOps**
+- 🌱 I’m currently learning **DevOps Roadmap 2023**
+  
+- 🌱 I’m also currently learning on **Certified Ethical Hacking**
+- 
+- 💬 Ask me about **DevOps & Opensource Tools**
+- 
+- 📫 How to reach me **keithnathy@gmail.com**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246) -->
 
-- 💬 Ask me about **DevOps & Opensource Tools**
+<!-- - 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps) -->
 
-- 📫 How to reach me **keithnathy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

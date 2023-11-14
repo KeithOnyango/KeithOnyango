@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
-- 🔭 I’m currently working on **Ultimate React Js Roadmap 2023**
+- 🔭 I’m currently working on **Ultimate React Js Portfolio**
 
-- 🌱 I’m currently learning **DevOps Roadmap 2023**
-- 🌱 I’m also currently learning on **Certified Ethical Hacking**
+- 🌱 I’m currently perfecting on **DevOps Roadmap 2023**
+- 🌱 I’m also currently practising on **Certified Ethical Hacking**
 - 💬 Ask me about **DevOps & Opensource Tools**
 - 📫 How to reach me **keithnathy@gmail.com**
 

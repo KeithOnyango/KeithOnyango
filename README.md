@@ -3,24 +3,24 @@
 <h1 align="center">Hey Everyone 👋, I'm Keith Onyango</h1>
 <h3 align="center">A Passionate and An Aspiring Cyber Security Analyst | React Software Engineer Developer | DevOps & DevSecOps Engineer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-<img align="right" alt="Coding" width="400" iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">>
 
 <!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
+- 🔭 I’m currently improving on my **Frontend React JS Skills**
 - 🔭 I’m currently working on **Ultimate React Js Portfolio**
-
-- 🌱 I’m currently perfecting on **DevOps Roadmap 2023**
-- 🌱 I’m also currently practising on **Certified Ethical Hacking**
-- 💬 Ask me about **DevOps & Opensource Tools**
+- 🌱 DevOps Engineer Enthusiast looking into **DevOps Roadmap**
+- 🌱 CyberSec Analyst Enthusiast perfecting my skills in **Certified Ethical Hacker {CEH}**
 - 📫 How to reach me **keithnathy@gmail.com**
+- 🤔 Exploring new open source tool technologies, and quick hacks on making boring stuffs automated and also into security privacy.
+  💬 Ask me about **DevOps & Opensource Tools**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246) -->
 
 <!-- - 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps) -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤝🏻 Connect with Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/keithonyango/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_kenation_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityajaiswal7" height="30" width="40" /></a>
@@ -33,6 +33,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KeithOnyango&" alt="adityajaiswal7" /></p><br>
 
 [![Keith's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@XpertKenaTion&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+#### **Visitor Count**
+
+![Visitor Count](https://profile-counter.glitch.me/{KeithOnyango}/count.svg)
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XpertKenaTion)](https://github.com/anuraghazra/github-readme-stats) -->
 

@@ -31,12 +31,6 @@
 
 [![Keith's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@XpertKenaTion&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-#### **Visitor Count**
+<!-- #### **Visitor Count** -->
 
-![Visitor Count](https://profile-counter.glitch.me/{KeithOnyango}/count.svg)
-
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XpertKenaTion)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{KeithOnyango}/count.svg) -->

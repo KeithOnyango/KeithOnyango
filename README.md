@@ -3,9 +3,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Keith Onyango</h1>
 <h3 align="center">A Passionate and An Aspiring Cyber Security Analyst | React Software Engineer Developer | DevOps & DevSecOps Engineer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-
-<!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> -->
-
+<img align="right" alt="Coding" width="400" src="https://github.com/KeithOnyango/KeithOnyango/blob/master/dev2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
 - 🔭 I’m currently improving on my **Frontend React JS Skills**

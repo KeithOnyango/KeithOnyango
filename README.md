@@ -1,18 +1,17 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hey Everyone 👋, I'm Keith Onyango</h1>
-<h3 align="center">A Passionate and An Aspiring Cyber Security Analyst | React Software Engineer Developer | DevOps & DevSecOps Engineer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+<h3 align="center">A Passionate and Aspiring Cyber Security Analyst | React Software Engineer Developer | DevOps & DevSecOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/KeithOnyango/KeithOnyango/blob/master/dev2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
-- 🔭 I’m currently improving on my **Frontend React JS Skills**
+- 👨‍💻 I’m currently improving on my **Frontend React JS Skills**
 - 🔭 I’m currently working on **Ultimate React Js Portfolio**
-- 🌱 DevOps Engineer Enthusiast looking into **DevOps Roadmap**
-- 🌱 CyberSec Analyst Enthusiast perfecting my skills in **Certified Ethical Hacker {CEH}**
+- 🌱 DevOps Engineer Enthusiast looking into the **DevOps Roadmap**
+- 🌱CyberSec Analyst Enthusiast perfecting my skills in **Certified Ethical Hacking**
 - 📫 How to reach me **keithnathy@gmail.com**
 - 🤔 Exploring new open source tool technologies, and quick hacks on making boring stuffs automated and also into security privacy.
-  💬 Ask me about **DevOps & Opensource Tools**
+- 💬 Ask me about **DevOps & OpenSource Tools & Security Privacy Tools**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246) -->
 

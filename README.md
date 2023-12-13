@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hey Everyone 👋, I'm Keith Onyango</h1>
-<h3 align="center">A Passionate and Aspiring DevOps & DevSecOps Engineer | Cyber Security Analyst | React Software Engineer Developer </h3>
+<h3 align="center">A Passionate and Aspiring DevOps Engineer | Cyber Security Analyst | React Software Engineer Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/KeithOnyango/KeithOnyango/blob/master/dev2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 

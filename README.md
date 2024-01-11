@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/KeithOnyango/KeithOnyango/blob/master/dev2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
-- 👨‍💻 I’m currently improving on my **Frontend React JS Skills**
+- 👨‍💻 I’m currently improving on my **Frontend React and Next JS Skills**
 - 🔭 I’m currently working on a **Fullstack Responsive Portfolio Website**
 - 🌱 DevOps Engineer Enthusiast looking into the **DevOps Roadmap**
 - 🌱CyberSec Analyst Enthusiast perfecting my skills in **Certified Ethical Hacking**

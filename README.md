@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
 - 👨‍💻 I’m currently improving on my **Frontend React and Next JS Skills**
-- 🔭 I’m currently working on a **Fullstack Responsive Portfolio Website**
-- 🌱 DevOps Engineer Enthusiast looking into the **DevOps Roadmap**
-- 🌱CyberSec Analyst Enthusiast perfecting my skills in **Certified Ethical Hacking**
+- 🔭 I’m currently working on a **Full Stack E-Commerce App with an Admin Dashboard & CMS**
+- 🌱 DevOps Engineer Enthusiast looking into the **#90DaysofDevOps**
+- 🌱CyberSec Analyst Enthusiast looking into getting my **Certified Ethical Hacking v12 Certificate**
 - 📫 How to reach me **keithnathy@gmail.com**
 - 🤔 Exploring new open source tool technologies, and quick hacks on making boring stuffs automated and also into security privacy.
 - 💬 Ask me about **DevOps & OpenSource Tools & Security Privacy Tools**

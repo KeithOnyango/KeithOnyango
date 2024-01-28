@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
 - 👨‍💻 I’m currently improving on my **React and Next JS Skills**
-- 🔭 I’m currently working on a **Full Stack E-Commerce App with an Admin Dashboard & CMS**
+- 🔭 I’m currently working on a **Car Show Application**
 - 🌱 DevOps Engineer Enthusiast looking into the **#90DaysofDevOps**
 - 🌱CyberSec Analyst Enthusiast looking into getting my **Certified Ethical Hacking v12 Certificate**
 - 📫 How to reach me **keithnathy@gmail.com**

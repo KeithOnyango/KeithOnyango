@@ -1,17 +1,15 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hey Everyone 👋, I'm Keith Onyango</h1>
-<h3 align="center">A Passionate and Aspiring DevOps Engineer | Software Engineer Developer and Cyber Security Analyst | </h3>
+<h3 align="center">A Passionate and Aspiring DevOps Engineer and Security Analyst | </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/KeithOnyango/KeithOnyango/blob/master/dev2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeithOnyango&label=Profile%20views&color=0e75b6&style=flat" alt="adityajaiswal7" /> </p>
 
-- 👨‍💻 I’m currently improving on my **React and Next JS Skills**
-- 🔭 I’m currently working on a **Car Show Application**
-- 🌱 DevOps Engineer Enthusiast looking into the **#90DaysofDevOps**
-- 🌱CyberSec Analyst Enthusiast looking into getting my **Certified Ethical Hacking v12 Certificate**
+- 👨‍💻 I’m currently improving on my **Certified Ethical Hacking Skills**
+- 🔭 I’m currently working on a **Establishing Automation in DevOps Processes**
+- 🌱 Opensource Enthusiast looking into exploring **Cool Opensource Tools within DevOps and Security**
 - 📫 How to reach me **keithnathy@gmail.com**
-- 🤔 Exploring new open source tool technologies, and quick hacks on making boring stuffs automated and also into security privacy.
-- 💬 Ask me about **DevOps & OpenSource Tools & Security Privacy Tools**
+- 💬 Ask me about **DevOps, DevSecOps, OpenSource & Security Privacy Tools**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246) -->
 

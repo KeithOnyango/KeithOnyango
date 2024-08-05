@@ -8,7 +8,6 @@
 - 👨‍💻 I’m currently improving on my **Certified Ethical Hacking Skills**
 - 🔭 I’m currently working on a **Establishing Automation in DevOps Processes**
 - 🌱 Opensource Enthusiast looking into exploring **Cool Opensource Tools within DevOps and Security**
-- 📫 How to reach me **keithnathy@gmail.com**
 - 💬 Ask me about **DevOps, DevSecOps, OpenSource & Security Privacy Tools**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246) -->

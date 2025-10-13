@@ -197,10 +197,10 @@ professional_interests:
 
 I actively contribute to and maintain open-source DevOps tooling:
 
-- 🔧 **Custom Operators & Controllers** for Kubernetes automation
+- 🔧 **Custom Operators & Controllers** for Kubernetes & Docker automation
 - 📦 **Helm Charts & Terraform Modules** for common infrastructure patterns
 - 🛠️ **CI/CD Templates** for GitHub Actions, GitLab CI, Jenkins
-- 🔐 **Security Policy Libraries** (OPA, Kyverno) for Kubernetes
+- 🔐 **Security Policy Libraries** (OPA, Kyverno) for Kubernetes & Docker
 - 📚 **Documentation & Tutorials** on modern DevOps practices
 
 ---

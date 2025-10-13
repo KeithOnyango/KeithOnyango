@@ -35,7 +35,7 @@ professional_interests:
 
 🔍 **Currently exploring:** Model Context Protocol (MCP) for AI agent orchestration, eBPF for observability, and WebAssembly for edge computing  
 💡 **Philosophy:** *"Automate everything, secure by default, observe relentlessly"*  
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/keithonyango/) | keith.onyango@example.com
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/keithonyango/) | keith.onyango1@gmail.com
 
 ---
 
@@ -157,7 +157,7 @@ professional_interests:
 
 ---
 
-## 📈 GitHub Statistics
+<!-- ## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeithOnyango&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -166,7 +166,7 @@ professional_interests:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithOnyango&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+</p> -->
 
 ### ⏱️ Coding Activity
 [![Keith's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@XpertKenaTion&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@XpertKenaTion)

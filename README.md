@@ -16,16 +16,14 @@ My work sits at the intersection of **platform engineering, security-by-design d
 <br />
 <br />
 
-<!-- Capsule banner: external SVG (GitHub camo). If it appears blank, open the fallback link or disable browser extensions that block third-party images. -->
+<!-- Capsule banner: hero = signature line; desc = identity stack (matches headline roles in this README). -->
 <a href="https://github.com/KeithOnyango">
   <img
     width="100%"
-    alt="Keith Onyango — Secure platforms, measured risk, reliable delivery"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Keith%20Onyango&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Secure%20platforms%20%E2%80%A2%20Measured%20risk%20%E2%80%A2%20Reliable%20delivery&descAlignY=58&descSize=16"
+    alt="Automate with intent. Secure by design. Observe what matters. — Keith Onyango, DevSecOps &amp; platform engineering"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Automate%20with%20intent.%20Secure%20by%20design.%20Observe%20what%20matters.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Keith%20Onyango%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Platform%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Security%20%26%20VAPT&descAlignY=56&descSize=14"
   />
 </a>
-
-<sub>If this banner does not render, <a href="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Keith%20Onyango&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Secure%20platforms%20%E2%80%A2%20Measured%20risk%20%E2%80%A2%20Reliable%20delivery&descAlignY=58&descSize=16">open the capsule SVG directly</a>.</sub>
 
 </div>
 

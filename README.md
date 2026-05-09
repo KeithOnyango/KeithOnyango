@@ -871,14 +871,14 @@ Focus areas:
 
 <br />
 
-📧 [keith.onyango1@gmail.com](mailto:keith.onyango1@gmail.com)
+📧 [keith.onyango1@gmail.com](mailto:keithonyango1@gmail.com)
 
 <br />
 <br />
 
 <a href="https://www.linkedin.com/in/keithonyango/">LinkedIn</a> •
 <a href="https://github.com/KeithOnyango">GitHub</a> •
-<a href="mailto:keith.onyango1@gmail.com">Email</a>
+<a href="mailto:keithonyango1@gmail.com">Email</a>
 
 </div>
 

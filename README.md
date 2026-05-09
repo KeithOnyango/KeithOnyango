@@ -1,3 +1,8 @@
+<!--
+  Profile images use raw.githubusercontent.com (branch develop = repo default).
+  Broken banner/stats until SVGs exist on GitHub: git add profile/*.svg && git commit && git push origin develop
+  Verify: https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/banner.svg (must return SVG, not 404)
+-->
 <div align="center">
 
 # 👋 Hi, I'm Keith Onyango
@@ -16,16 +21,14 @@ My work sits at the intersection of **platform engineering, security-by-design d
 <br />
 <br />
 
-<!-- Banner: self-hosted SVG (./profile/banner.svg) — survives GitHub camo/proxy; external capsule-render URLs often break when long or third-party is flaky. -->
+<!-- Banner: SVG must exist on the repo default branch (develop). If the image breaks, confirm you pushed profile/*.svg and use absolute raw URLs (below). -->
 <a href="https://github.com/KeithOnyango">
   <img
     width="100%"
     alt="Automate with intent. Secure by design. Observe what matters."
-    src="./profile/banner.svg"
+    src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/banner.svg"
   />
 </a>
-
-<sub>If this banner does not render, <a href="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Automate%20with%20intent.%20Secure%20by%20design.%20Observe%20what%20matters.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Keith%20Onyango%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Platform%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Security%20%26%20VAPT&descAlignY=56&descSize=14">open the capsule SVG directly</a>.</sub>
 
 </div>
 
@@ -678,12 +681,12 @@ Operations & feedback
 <!-- Stats + langs + WakaTime: SVGs in /profile (no dependency on paused public Vercel — see issue #4737). Refresh: Actions → "Update README stats cards" → Run workflow. -->
 <div align="center">
 
-<img height="170" alt="Keith's GitHub Stats" src="./profile/stats.svg" />
+<img height="170" alt="Keith's GitHub Stats" src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/stats.svg" />
 
 <br />
 <br />
 
-<img height="170" alt="Top Languages" src="./profile/top-langs.svg" />
+<img height="170" alt="Top Languages" src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/top-langs.svg" />
 
 <br />
 <br />
@@ -720,7 +723,7 @@ Operations & feedback
 <!-- WakaTime username has no @ in API options. Turn on public coding activity: WakaTime → Settings → Profile → Privacy. -->
 <div align="center">
   <a href="https://wakatime.com/@XpertKenaTion">
-    <img src="./profile/wakatime.svg" alt="Keith's WakaTime stats" />
+    <img src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/wakatime.svg" alt="Keith's WakaTime stats" />
   </a>
 </div>
 
@@ -883,7 +886,7 @@ Focus areas:
 
 <div align="center">
 
-<img width="100%" alt="" src="./profile/footer-wave.svg" />
+<img width="100%" alt="" src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/footer-wave.svg" />
 
 ### Automate with intent. Secure by design. Observe what matters.
 

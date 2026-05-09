@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 120" width="1100" height="120" role="img" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="120" fill="url(#footGrad)"/>
+  <path fill="#0f172a" fill-opacity="0.35" d="M0,72 C275,102 550,42 825,72 C917,82 1008,62 1100,72 L1100,120 L0,120 Z"/>
+</svg>

@@ -25,6 +25,8 @@ My work sits at the intersection of **platform engineering, security-by-design d
   />
 </a>
 
+<sub>If this banner does not render, <a href="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Automate%20with%20intent.%20Secure%20by%20design.%20Observe%20what%20matters.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Keith%20Onyango%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Platform%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Security%20%26%20VAPT&descAlignY=56&descSize=14">open the capsule SVG directly</a>.</sub>
+
 </div>
 
 ---

@@ -16,7 +16,16 @@ My work sits at the intersection of **platform engineering, security-by-design d
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Building%20Secure%20Reliable%20Platforms&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%E2%80%A2%20Platform%20Engineering%20%E2%80%A2%20AI%20Product%20Engineering%20%E2%80%A2%20Security%20%26%20VAPT&descAlignY=58&descSize=15" />
+<!-- Capsule banner: external SVG (GitHub camo). If it appears blank, open the fallback link or disable browser extensions that block third-party images. -->
+<a href="https://github.com/KeithOnyango">
+  <img
+    width="100%"
+    alt="Keith Onyango — Secure platforms, measured risk, reliable delivery"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Keith%20Onyango&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Secure%20platforms%20%E2%80%A2%20Measured%20risk%20%E2%80%A2%20Reliable%20delivery&descAlignY=58&descSize=16"
+  />
+</a>
+
+<sub>If this banner does not render, <a href="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Keith%20Onyango&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Secure%20platforms%20%E2%80%A2%20Measured%20risk%20%E2%80%A2%20Reliable%20delivery&descAlignY=58&descSize=16">open the capsule SVG directly</a>.</sub>
 
 </div>
 
@@ -666,21 +675,33 @@ Operations & feedback
 
 ## 📊 GitHub Overview
 
+<!-- Stats + langs + WakaTime: SVGs in /profile (no dependency on paused public Vercel — see issue #4737). Refresh: Actions → "Update README stats cards" → Run workflow. -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KeithOnyango&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Keith's GitHub Stats" />
+<img height="170" alt="Keith's GitHub Stats" src="./profile/stats.svg" />
 
 <br />
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeithOnyango&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" alt="Top Languages" src="./profile/top-langs.svg" />
 
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KeithOnyango&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=KeithOnyango&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
+
+<p align="center">
+  <sub>
+    Cards above are generated into <code>profile/*.svg</code> by
+    <a href="https://github.com/readme-tools/github-readme-stats-action"><code>readme-tools/github-readme-stats-action</code></a>
+    (recommended while <a href="https://github.com/anuraghazra/github-readme-stats/issues/4737">public github-readme-stats on Vercel is often paused</a>).
+  </sub>
+</p>
 
 ---
 
@@ -696,7 +717,12 @@ Operations & feedback
 
 ### ⏱️ Coding activity (Wakatime)
 
-[![Keith's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@XpertKenaTion&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@XpertKenaTion)
+<!-- WakaTime username has no @ in API options. Turn on public coding activity: WakaTime → Settings → Profile → Privacy. -->
+<div align="center">
+  <a href="https://wakatime.com/@XpertKenaTion">
+    <img src="./profile/wakatime.svg" alt="Keith's WakaTime stats" />
+  </a>
+</div>
 
 ---
 
@@ -857,7 +883,7 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer" />
 
 ### Automate with intent. Secure by design. Observe what matters.
 

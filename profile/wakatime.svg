@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Placeholder  run GitHub Action for WakaTime (profile must be public on wakatime.com)">
+  <rect width="495" height="195" rx="4.5" fill="#1a1b27"/>
+  <text x="247.5" y="85" fill="#38bdf8" font-family="Segoe UI,system-ui,sans-serif" font-size="15" text-anchor="middle">WakaTime card</text>
+  <text x="247.5" y="111" fill="#a9b1d6" font-family="Segoe UI,system-ui,sans-serif" font-size="12" text-anchor="middle">Enable public coding activity on WakaTime</text>
+  <text x="247.5" y="131" fill="#a9b1d6" font-family="Segoe UI,system-ui,sans-serif" font-size="12" text-anchor="middle">then run workflow: Update README stats cards</text>
+</svg>

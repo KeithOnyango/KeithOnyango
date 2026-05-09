@@ -16,12 +16,12 @@ My work sits at the intersection of **platform engineering, security-by-design d
 <br />
 <br />
 
-<!-- Capsule banner: hero = signature line; desc = identity stack (matches headline roles in this README). -->
+<!-- Banner: self-hosted SVG (./profile/banner.svg) — survives GitHub camo/proxy; external capsule-render URLs often break when long or third-party is flaky. -->
 <a href="https://github.com/KeithOnyango">
   <img
     width="100%"
-    alt="Automate with intent. Secure by design. Observe what matters. — Keith Onyango, DevSecOps &amp; platform engineering"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Automate%20with%20intent.%20Secure%20by%20design.%20Observe%20what%20matters.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Keith%20Onyango%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Platform%20%E2%80%A2%20AI%20Products%20%E2%80%A2%20Security%20%26%20VAPT&descAlignY=56&descSize=14"
+    alt="Automate with intent. Secure by design. Observe what matters."
+    src="./profile/banner.svg"
   />
 </a>
 
@@ -881,7 +881,7 @@ Focus areas:
 
 <div align="center">
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer" />
+<img width="100%" alt="" src="./profile/footer-wave.svg" />
 
 ### Automate with intent. Secure by design. Observe what matters.
 

@@ -676,10 +676,10 @@ Operations & feedback
 
 ---
 
-## 📊 GitHub Overview
+<!-- ## 📊 GitHub Overview -->
 
 <!-- Stats + langs + WakaTime: SVGs in /profile (no dependency on paused public Vercel — see issue #4737). Refresh: Actions → "Update README stats cards" → Run workflow. -->
-<div align="center">
+<!-- <div align="center">
 
 <img height="170" alt="Keith's GitHub Stats" src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/stats.svg" />
 
@@ -689,22 +689,22 @@ Operations & feedback
 <img height="170" alt="Top Languages" src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/top-langs.svg" />
 
 <br />
-<br />
+<br /> -->
 
-<img
+<!-- <img
   src="https://streak-stats.demolab.com/?user=KeithOnyango&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
-</div>
+</div> -->
 
-<p align="center">
+<!-- <p align="center">
   <sub>
     Cards above are generated into <code>profile/*.svg</code> by
     <a href="https://github.com/readme-tools/github-readme-stats-action"><code>readme-tools/github-readme-stats-action</code></a>
     (recommended while <a href="https://github.com/anuraghazra/github-readme-stats/issues/4737">public github-readme-stats on Vercel is often paused</a>).
   </sub>
-</p>
+</p> -->
 
 ---
 

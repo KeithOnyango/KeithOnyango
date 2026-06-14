@@ -37,7 +37,7 @@
 
 > Strongest production work lives in **private/client** contexts. This profile shows **how I work** and **what I publish openly** — not every deployment.
 
----
+<!-- ---
 
 ## Selected work
 
@@ -49,7 +49,7 @@
 | Platform IaC catalog | Reusable Terraform modules + CI/CD templates across AWS/Azure/GCP | Active |
 | Enterprise SIEM / visibility | Centralized logging and security dashboards for brownfield integrations | Active |
 
----
+--- -->
 
 ## How I work
 

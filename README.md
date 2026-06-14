@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**DevSecOps & platform engineer** — I build **secure CI/CD pipelines**, **multi-cloud Terraform/IaC**, **observable cloud-native runtimes**, **VAPT-informed hardening**, and **guardrailed AI ops interfaces** for teams shipping to production.
+**DevSecOps & Platform engineer** — I build **secure CI/CD pipelines**, **multi-cloud Terraform/IaC**, **observable cloud-native runtimes**, **VAPT-informed hardening**, and **guardrailed AI ops interfaces** for teams shipping to production.
 
 <br />
 
@@ -33,9 +33,9 @@
 
 ## Currently building
 
-- **[AI_Engineer](https://github.com/KeithOnyango/AI_Engineer)** — AI/ML integration notes, Cursor agent-skills lifecycle, Ollama, n8n, and BMAD-aligned engineering workflows (`develop`)
+- **AI Engineer** — AI/ML integration notes, Cursor agent-skills lifecycle, Ollama, n8n, and BMAD-aligned engineering workflows.
 - **Public portfolio patterns** — Terraform modules, GitOps templates, and DevSecOps pipeline gates (repos being curated for release)
-- **Enterprise security visibility** — brownfield logging, SIEM-oriented dashboards, operator-first observability *(WIP — clearance)*
+- **Enterprise security visibility** — brownfield logging, SIEM-oriented dashboards, operator-first observability.
 
 > Strongest production work lives in **private/client** contexts. This profile shows **how I work** and **what I publish openly** — not every deployment.
 
@@ -45,17 +45,17 @@
 
 | Project | What it is | Status |
 |---------|------------|--------|
-| [AI_Engineer](https://github.com/KeithOnyango/AI_Engineer) | AI engineering lab: agent-skills, Ollama, ECC, automation patterns, Cursor setup | Active |
-| [homelab_vps_tools](https://github.com/KeithOnyango/homelab_vps_tools) | Self-hosted homelab: n8n, observability, VPS automation at `automate.xpertkenation.co.ke` | Active |
-| [Claude_code_guide](https://github.com/KeithOnyango/Claude_code_guide) | Claude Code bundle: agents, BMAD commands, awesome-claude-skills collections | Active |
-| Platform IaC catalog | Reusable Terraform modules + CI/CD templates across AWS/Azure/GCP | WIP |
-| Enterprise SIEM / visibility | Centralized logging and security dashboards for brownfield integrations | WIP — selective disclosure |
+|  AI_Engineer| AI engineering lab: agent-skills, Ollama, ECC, automation patterns, Cursor setup | Active |
+|  homelab_vps_tools  | Self-hosted homelab: n8n, observability, VPS, SSO, Security etc | Active |
+| Claude_code_guide | Claude Code bundle: agents, BMAD commands, awesome-claude-skills collections | Active |
+| Platform IaC catalog | Reusable Terraform modules + CI/CD templates across AWS/Azure/GCP | Active |
+| Enterprise SIEM / visibility | Centralized logging and security dashboards for brownfield integrations | Active |
 
 ---
 
 ## How I work
 
-I operate at the intersection of **platform engineering**, **DevSecOps**, **SRE/observability**, **VAPT-informed delivery**, and **AI product surfaces that ship with guardrails** — not hype-first demos.
+I operate at the intersection of **Platform engineering**, **DevSecOps**, **SRE/observability**, **VAPT-informed delivery**, and **AI product surfaces that ship with guardrails** — not hype-first demos.
 
 ```txt
 Delivery intent
@@ -121,13 +121,13 @@ flowchart TB
 
 📧 [keithonyango1@gmail.com](mailto:keithonyango1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/keithonyango/) · [GitHub](https://github.com/KeithOnyango)
 
-<br />
+<!-- <br />
 
 <img height="170" alt="Keith's GitHub Stats" src="https://raw.githubusercontent.com/KeithOnyango/KeithOnyango/develop/profile/stats.svg" />
 
-<br />
+<br /> -->
 
-<sub>Stats generated into <code>profile/*.svg</code> via GitHub Actions · <a href="https://github.com/KeithOnyango/KeithOnyango/blob/develop/.github/workflows/update-readme-stats.yml">workflow</a></sub>
+<!-- <sub>Stats generated into <code>profile/*.svg</code> via GitHub Actions · <a href="https://github.com/KeithOnyango/KeithOnyango/blob/develop/.github/workflows/update-readme-stats.yml">workflow</a></sub> -->
 
 </div>
 

@@ -10,9 +10,7 @@
 
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/keithonyango/) · [Email](mailto:keithonyango1@gmail.com) · [AI Engineer](https://github.com/KeithOnyango/AI_Engineer) · [Homelab stack](https://github.com/KeithOnyango/homelab_vps_tools)
-
-<br />
+[LinkedIn](https://www.linkedin.com/in/keithonyango/) · [Email](mailto:keithonyango1@gmail.com) · 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KeithOnyango&style=flat-square)](https://github.com/KeithOnyango)
 [![GitHub followers](https://img.shields.io/github/followers/KeithOnyango?style=flat-square&logo=github)](https://github.com/KeithOnyango)
